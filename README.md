@@ -34,6 +34,8 @@ Contacts
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamonteirofeitosa&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&layout=compact&theme=dark&hide=html,css&cache_seconds=86400)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamonteirofeitosa&theme=midnight-purple&show_icons=true&title_color=#800080&text_color=#ffffff&icon_color=#800080&cache_seconds=86400)
 
 ![Nome alternativo](https://media.giphy.com/media/3o7btUArDVF1XAimaI/giphy.gif)

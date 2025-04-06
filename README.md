@@ -32,9 +32,8 @@ Contacts
 <a href="https://www.linkedin.com/in/milenamonteirofeitosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&layout=compact&theme=dark&hide=html,css&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&hide_progress=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamonteirofeitosa&theme=midnight-purple&show_icons=true&title_color=#800080&text_color=#ffffff&icon_color=#800080&cache_seconds=86400)
 

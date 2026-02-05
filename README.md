@@ -2,7 +2,7 @@
 
 Sou **Doutora em Desenvolvimento e Meio Ambiente (UFC)** e Economista. Minha atuação profissional é focada em **Análise de Dados e Inteligência Geospacial**, unindo o pensamento analítico da economia com o poder das geotecnologias para solucionar problemas complexos.
 
-### 🎓 Formação & Senioridade
+### 🎓 Formação
 - 🏅 **Doutora em Desenvolvimento e Meio Ambiente** (UFC).
 - 📈 **Economista** com foco em análise de séries temporais e estatísticas regionais.
 - 💻 **Spatial Data Scientist**: Especialista na integração de dados tabulares e espaciais para tomada de decisão.

@@ -1,40 +1,22 @@
-Hello, I'm Milena Monteiro
-- 📈 Economist
-- 🌍 PhD student in Development and Environment
-- 🤩 Fascinated by Programming, Data Analysis, Geoprocessing and Remote Sensing
+# Milena Monteiro, PhD 🌿📊
 
+Sou **Doutora em Desenvolvimento e Meio Ambiente (UFC)** e Economista. Minha atuação profissional é focada em **Análise de Dados e Inteligência Geospacial**, unindo o pensamento analítico da economia com o poder das geotecnologias para solucionar problemas complexos.
 
+### 🎓 Formação & Senioridade
+- 🏅 **Doutora em Desenvolvimento e Meio Ambiente** (UFC).
+- 📈 **Economista** com foco em análise de séries temporais e estatísticas regionais.
+- 💻 **Spatial Data Scientist**: Especialista na integração de dados tabulares e espaciais para tomada de decisão.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img 
-src= "https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" width="40" height="40" /> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" width="40" height="40" />
-          
+### 🛠️ Toolbox de Dados
+- **Análise de Dados:** Python (Pandas, Numpy, Scikit-learn), R, IBM SPSS.
+- **Inteligência Geospacial:** API do Google Earth Engine, Geopandas, Rasterio, QGIS.
+- **Sensoriamento Remoto:** Processamento de imagens Landsat/Sentinel para monitoramento ambiental.
+- **Planejamento Urbano:** Elaboração de diagnósticos territoriais e zoneamento (experiência IPPLAN).
 
+### 🚀 Projetos em Destaque
+- **Spatial Data Analysis (NDVI):** Monitoramento multitemporal (2005-2024) do vigor vegetativo e correlação pluviométrica no Ceará via Python.
+- **Zoneamento Urbano:** Análise e espacialização de dados para o Plano Diretor de Fortaleza (PDPFor).
 
+### 📫 Conecte-se comigo
+[LINKEDIN](https://linkedin.com/in/milenamonteirofeitosa) | [LATTES](http://lattes.cnpq.br/2761723037820370)
 
-Learning
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-          
-          
-          
-
-
-
-
-Contacts
-
-<div>
-<a href="https://instagram.com/milena.monteiro88/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@milenamonteirofeitosa/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/milenamonteirofeitosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamonteirofeitosa&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamonteirofeitosa&theme=midnight-purple&show_icons=true&title_color=#800080&text_color=#ffffff&icon_color=#800080&cache_seconds=86400)
-
-![Nome alternativo](https://media.giphy.com/media/3o7btUArDVF1XAimaI/giphy.gif)

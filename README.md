@@ -18,5 +18,5 @@ Sou **Doutora em Desenvolvimento e Meio Ambiente (UFC)** e Economista. Minha atu
 - **Zoneamento Urbano:** Análise e espacialização de dados para o Plano Diretor de Fortaleza (PDPFor).
 
 ### 📫 Conecte-se comigo
-[LINKEDIN](https://linkedin.com/in/milenamonteirofeitosa) | [Gmail](mailto:milenamonteirofeitosa@gmail.com) | [LATTES](http://lattes.cnpq.br/2761723037820370)
+[LINKEDIN](https://linkedin.com/in/milenamonteirofeitosa) | [GMAIL](mailto:milenamonteirofeitosa@gmail.com) | [LATTES](http://lattes.cnpq.br/2761723037820370)
 
